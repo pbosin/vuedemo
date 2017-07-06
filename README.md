@@ -1,6 +1,13 @@
-# vuedemo
+# PB: demo app for Vue (work in progress);
 
-> A Vue.js project
+Implemented concepts:
+* Single layer of components
+* Single data access service
+* vue-router
+* bootstrap css for styling
+
+Server side Restful api [hosted at http://thinkful-pb-1.getsandbox.com](http://thinkful-pb-1.getsandbox.com)
+
 
 ## Build Setup
 
